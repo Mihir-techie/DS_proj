@@ -5,4 +5,9 @@ scikit-learn
 seaborn 
 requests
 flask
+mysql-connector-python 
+pymysql
+python-dotenv
+
+
 -e . #For Local Package Installation 
